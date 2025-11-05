@@ -90,6 +90,7 @@ int main()
         }
         printf("\n");
     }
+    printf("###################   Fim do Jogo   #####################\n");
 
     return 0;
 }
